@@ -67,4 +67,4 @@ Overrides live in `~/.local/share/flatpak/overrides/<app-id>`.
 
 ## License
 
-MIT
+GPLv3 (see LICENSE)
